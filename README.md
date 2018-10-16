@@ -1,0 +1,3 @@
+# git-curso
+Mir primero proyectocon git
+Proyecto de prueba...
